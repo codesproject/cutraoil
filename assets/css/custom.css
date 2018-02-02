@@ -78,3 +78,20 @@ h3.g-font-weight-300.g-mb-15 {
 h4.h5.g-color-black.g-mb-5 {
     color: black !important;
 }
+
+figure.row.flex-md-row.align-items-center p {
+    font-size: .899em;
+    color: #656565;
+    line-height: 23px;
+    text-align: justify;
+}
+
+
+figure.row.flex-md-row.align-items-center ul li {
+    font-size: .87em;
+    line-height: 23px;
+}
+
+h2.h4.g-color-black.g-font-weight-600 {
+    color: #777777 !important;
+}

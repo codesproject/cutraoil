@@ -1,3 +1,5 @@
+
+
 .msp-preset-btn-192 {
         /* background-color: #fff; */
     color: #fff;
@@ -13,9 +15,9 @@
 }
 
 .msp-cn-163-1 {
-    font-family: "lato";
+    font-family: 'Open Sans', sans-serif;
     font-weight: 100;
-    font-size: 38px !important;
+    font-size: 33px !important;
     line-height: normal;
     color: #ffffff;
 }
@@ -29,9 +31,9 @@
 }
 
 .msp-cn-163-3 {
-    font-family: "lato";
+    font-family: 'Open Sans', sans-serif;
     font-weight: 100;
-    font-size: 38px !important;
+    font-size: 33px !important;
     line-height: normal;
     color: #ffffff;
     text-align: right;
@@ -46,9 +48,9 @@
 }
 
 .msp-cn-163-5 {
-    font-family: "lato";
+    font-family: 'Open Sans', sans-serif;
     font-weight: 100;
-    font-size: 38px !important;
+    font-size: 33px !important;
     line-height: normal;
     color: #ffffff;
 	text-align: left;
@@ -60,3 +62,25 @@
     font-size: 12px;
     line-height: normal;
 }
+
+
+
+@media  (max-width:700px){
+	.msp-cn-163-1, .msp-cn-163-3, .msp-cn-163-5 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    font-size: 22px !important;
+    line-height: normal;
+    
+}		
+		}
+
+@media  (max-width:550px){
+	.msp-cn-163-1, .msp-cn-163-3, .msp-cn-163-5 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    font-size: 18px !important;
+    line-height: normal;
+    
+}		
+		}
