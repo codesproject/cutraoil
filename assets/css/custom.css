@@ -1,0 +1,80 @@
+/* Add here all your css styles (customizations) */
+
+a.g-font-size-12.g-text-underline--none--hover.text-uppercase {
+    color: #4a8aef;
+    font-size: 10px !important;
+    padding: 8px 20px;
+    letter-spacing: .03em;
+    border-radius: 2px;
+    border: .05em solid #4a8aef;
+	transition: all .5s;
+	font-weight: 600;
+}
+
+a.g-font-size-12.g-text-underline--none--hover.text-uppercase:hover {
+    background: #0275d8;
+    color: #dcefff;
+}
+
+.g-pl-90--sm .lead {
+    text-align: justify;
+}
+
+.g-bg-secondary{
+	background-image: url(../img-temp/1920x1080/bgimg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.g-color-black{
+	    color: #f1f1f1 !important;
+    font-weight: 500 !important;
+}
+
+p.lead.mb-0{
+	color: #dadada;
+}
+
+
+.text-center>.mb-0 {
+    color: #808080;
+}
+
+h2.h1.g-color-black.g-font-weight-600.mb-3 {
+   color: #6b6b6b !important;
+    font-size: 1.6em;
+    font-weight: 300 !important;
+}
+
+h3.h5.g-color-black {
+    color: #989898 !important;
+    font-weight: 400 !important;
+}
+
+.text-center p.lead {
+    text-align: justify;
+}
+
+p.g-color-gray-dark-v4.g-mb-0 {
+    line-height: 24px;
+    text-align: justify;
+}
+
+h1.g-font-weight-300.mb-2 {
+    font-size: 32px;
+}
+
+.g-pa-30 p {
+    text-align: justify;
+    font-size: .95em;
+}
+
+h3.g-font-weight-300.g-mb-15 {
+    font-size: 1.6em;
+    /* font-weight: 400; */
+}
+
+h4.h5.g-color-black.g-mb-5 {
+    color: black !important;
+}
